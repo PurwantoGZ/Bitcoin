@@ -1,0 +1,11 @@
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.1UnitTests\bin\Debug\4.1UnitTests.exe.config
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.1UnitTests\bin\Debug\4.1UnitTests.exe
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.1UnitTests\bin\Debug\4.1UnitTests.pdb
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.1UnitTests\bin\Debug\NBitcoin.BouncyCastle.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.1UnitTests\bin\Debug\NBitcoin.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.1UnitTests\bin\Debug\Newtonsoft.Json.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.1UnitTests\bin\Debug\NBitcoin.pdb
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.1UnitTests\bin\Debug\NBitcoin.xml
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.1UnitTests\bin\Debug\Newtonsoft.Json.xml
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.1UnitTests\obj\Debug\4.1UnitTests.exe
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.1UnitTests\obj\Debug\4.1UnitTests.pdb

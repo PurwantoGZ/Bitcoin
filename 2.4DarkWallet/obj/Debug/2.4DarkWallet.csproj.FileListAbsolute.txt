@@ -1,0 +1,11 @@
+E:\MYDESK\ProgrammingBlockchainCodeExamples\2.4DarkWallet\bin\Debug\2.4DarkWallet.exe.config
+E:\MYDESK\ProgrammingBlockchainCodeExamples\2.4DarkWallet\bin\Debug\2.4DarkWallet.exe
+E:\MYDESK\ProgrammingBlockchainCodeExamples\2.4DarkWallet\bin\Debug\2.4DarkWallet.pdb
+E:\MYDESK\ProgrammingBlockchainCodeExamples\2.4DarkWallet\bin\Debug\NBitcoin.BouncyCastle.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\2.4DarkWallet\bin\Debug\NBitcoin.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\2.4DarkWallet\bin\Debug\Newtonsoft.Json.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\2.4DarkWallet\bin\Debug\NBitcoin.pdb
+E:\MYDESK\ProgrammingBlockchainCodeExamples\2.4DarkWallet\bin\Debug\NBitcoin.xml
+E:\MYDESK\ProgrammingBlockchainCodeExamples\2.4DarkWallet\bin\Debug\Newtonsoft.Json.xml
+E:\MYDESK\ProgrammingBlockchainCodeExamples\2.4DarkWallet\obj\Debug\2.4DarkWallet.exe
+E:\MYDESK\ProgrammingBlockchainCodeExamples\2.4DarkWallet\obj\Debug\2.4DarkWallet.pdb

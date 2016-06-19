@@ -1,0 +1,12 @@
+E:\MYDESK\ProgrammingBlockchainCodeExamples\BitcoinAddress\bin\Debug\BitcoinAddress.exe.config
+E:\MYDESK\ProgrammingBlockchainCodeExamples\BitcoinAddress\bin\Debug\BitcoinAddress.exe
+E:\MYDESK\ProgrammingBlockchainCodeExamples\BitcoinAddress\bin\Debug\BitcoinAddress.pdb
+E:\MYDESK\ProgrammingBlockchainCodeExamples\BitcoinAddress\bin\Debug\NBitcoin.BouncyCastle.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\BitcoinAddress\bin\Debug\NBitcoin.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\BitcoinAddress\bin\Debug\Newtonsoft.Json.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\BitcoinAddress\bin\Debug\NBitcoin.pdb
+E:\MYDESK\ProgrammingBlockchainCodeExamples\BitcoinAddress\bin\Debug\NBitcoin.xml
+E:\MYDESK\ProgrammingBlockchainCodeExamples\BitcoinAddress\bin\Debug\Newtonsoft.Json.xml
+E:\MYDESK\ProgrammingBlockchainCodeExamples\BitcoinAddress\obj\Debug\1.1BitcoinAddress.csprojResolveAssemblyReference.cache
+E:\MYDESK\ProgrammingBlockchainCodeExamples\BitcoinAddress\obj\Debug\BitcoinAddress.exe
+E:\MYDESK\ProgrammingBlockchainCodeExamples\BitcoinAddress\obj\Debug\BitcoinAddress.pdb

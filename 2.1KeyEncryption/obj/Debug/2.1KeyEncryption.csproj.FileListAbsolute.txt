@@ -1,0 +1,11 @@
+E:\MYDESK\ProgrammingBlockchainCodeExamples\2.1KeyEncryption\bin\Debug\2.1KeyEncryption.exe.config
+E:\MYDESK\ProgrammingBlockchainCodeExamples\2.1KeyEncryption\bin\Debug\2.1KeyEncryption.exe
+E:\MYDESK\ProgrammingBlockchainCodeExamples\2.1KeyEncryption\bin\Debug\2.1KeyEncryption.pdb
+E:\MYDESK\ProgrammingBlockchainCodeExamples\2.1KeyEncryption\bin\Debug\NBitcoin.BouncyCastle.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\2.1KeyEncryption\bin\Debug\NBitcoin.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\2.1KeyEncryption\bin\Debug\Newtonsoft.Json.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\2.1KeyEncryption\bin\Debug\NBitcoin.pdb
+E:\MYDESK\ProgrammingBlockchainCodeExamples\2.1KeyEncryption\bin\Debug\NBitcoin.xml
+E:\MYDESK\ProgrammingBlockchainCodeExamples\2.1KeyEncryption\bin\Debug\Newtonsoft.Json.xml
+E:\MYDESK\ProgrammingBlockchainCodeExamples\2.1KeyEncryption\obj\Debug\2.1KeyEncryption.exe
+E:\MYDESK\ProgrammingBlockchainCodeExamples\2.1KeyEncryption\obj\Debug\2.1KeyEncryption.pdb

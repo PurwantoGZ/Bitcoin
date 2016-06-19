@@ -1,0 +1,13 @@
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.1OtherAssets\bin\Debug\4.1OtherAssets.exe.config
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.1OtherAssets\bin\Debug\4.1OtherAssets.exe
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.1OtherAssets\bin\Debug\4.1OtherAssets.pdb
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.1OtherAssets\bin\Debug\NBitcoin.BouncyCastle.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.1OtherAssets\bin\Debug\NBitcoin.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.1OtherAssets\bin\Debug\Newtonsoft.Json.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.1OtherAssets\bin\Debug\QBitNinja.Client.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.1OtherAssets\bin\Debug\NBitcoin.pdb
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.1OtherAssets\bin\Debug\NBitcoin.xml
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.1OtherAssets\bin\Debug\Newtonsoft.Json.xml
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.1OtherAssets\bin\Debug\QBitNinja.Client.pdb
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.1OtherAssets\obj\Debug\4.1OtherAssets.exe
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.1OtherAssets\obj\Debug\4.1OtherAssets.pdb

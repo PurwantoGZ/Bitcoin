@@ -1,0 +1,11 @@
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.2LiquidDemocracy\bin\Debug\4.2LiquidDemocracy.exe.config
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.2LiquidDemocracy\bin\Debug\4.2LiquidDemocracy.exe
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.2LiquidDemocracy\bin\Debug\4.2LiquidDemocracy.pdb
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.2LiquidDemocracy\bin\Debug\NBitcoin.BouncyCastle.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.2LiquidDemocracy\bin\Debug\NBitcoin.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.2LiquidDemocracy\bin\Debug\Newtonsoft.Json.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.2LiquidDemocracy\bin\Debug\NBitcoin.pdb
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.2LiquidDemocracy\bin\Debug\NBitcoin.xml
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.2LiquidDemocracy\bin\Debug\Newtonsoft.Json.xml
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.2LiquidDemocracy\obj\Debug\4.2LiquidDemocracy.exe
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.2LiquidDemocracy\obj\Debug\4.2LiquidDemocracy.pdb

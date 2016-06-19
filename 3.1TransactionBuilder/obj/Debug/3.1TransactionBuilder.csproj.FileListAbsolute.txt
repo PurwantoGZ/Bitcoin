@@ -1,0 +1,11 @@
+E:\MYDESK\ProgrammingBlockchainCodeExamples\3.1TransactionBuilder\bin\Debug\3.1TransactionBuilder.exe.config
+E:\MYDESK\ProgrammingBlockchainCodeExamples\3.1TransactionBuilder\bin\Debug\3.1TransactionBuilder.exe
+E:\MYDESK\ProgrammingBlockchainCodeExamples\3.1TransactionBuilder\bin\Debug\3.1TransactionBuilder.pdb
+E:\MYDESK\ProgrammingBlockchainCodeExamples\3.1TransactionBuilder\bin\Debug\NBitcoin.BouncyCastle.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\3.1TransactionBuilder\bin\Debug\NBitcoin.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\3.1TransactionBuilder\bin\Debug\Newtonsoft.Json.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\3.1TransactionBuilder\bin\Debug\NBitcoin.pdb
+E:\MYDESK\ProgrammingBlockchainCodeExamples\3.1TransactionBuilder\bin\Debug\NBitcoin.xml
+E:\MYDESK\ProgrammingBlockchainCodeExamples\3.1TransactionBuilder\bin\Debug\Newtonsoft.Json.xml
+E:\MYDESK\ProgrammingBlockchainCodeExamples\3.1TransactionBuilder\obj\Debug\3.1TransactionBuilder.exe
+E:\MYDESK\ProgrammingBlockchainCodeExamples\3.1TransactionBuilder\obj\Debug\3.1TransactionBuilder.pdb

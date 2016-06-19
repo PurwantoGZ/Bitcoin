@@ -1,0 +1,11 @@
+E:\MYDESK\ProgrammingBlockchainCodeExamples\2.2Bip38\bin\Debug\2.2Bip38.exe.config
+E:\MYDESK\ProgrammingBlockchainCodeExamples\2.2Bip38\bin\Debug\2.2Bip38.exe
+E:\MYDESK\ProgrammingBlockchainCodeExamples\2.2Bip38\bin\Debug\2.2Bip38.pdb
+E:\MYDESK\ProgrammingBlockchainCodeExamples\2.2Bip38\bin\Debug\NBitcoin.BouncyCastle.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\2.2Bip38\bin\Debug\NBitcoin.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\2.2Bip38\bin\Debug\Newtonsoft.Json.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\2.2Bip38\bin\Debug\NBitcoin.pdb
+E:\MYDESK\ProgrammingBlockchainCodeExamples\2.2Bip38\bin\Debug\NBitcoin.xml
+E:\MYDESK\ProgrammingBlockchainCodeExamples\2.2Bip38\bin\Debug\Newtonsoft.Json.xml
+E:\MYDESK\ProgrammingBlockchainCodeExamples\2.2Bip38\obj\Debug\2.2Bip38.exe
+E:\MYDESK\ProgrammingBlockchainCodeExamples\2.2Bip38\obj\Debug\2.2Bip38.pdb

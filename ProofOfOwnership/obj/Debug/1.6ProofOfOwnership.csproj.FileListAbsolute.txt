@@ -1,0 +1,11 @@
+E:\MYDESK\ProgrammingBlockchainCodeExamples\ProofOfOwnership\bin\Debug\ProofOfOwnership.exe.config
+E:\MYDESK\ProgrammingBlockchainCodeExamples\ProofOfOwnership\bin\Debug\ProofOfOwnership.exe
+E:\MYDESK\ProgrammingBlockchainCodeExamples\ProofOfOwnership\bin\Debug\ProofOfOwnership.pdb
+E:\MYDESK\ProgrammingBlockchainCodeExamples\ProofOfOwnership\bin\Debug\NBitcoin.BouncyCastle.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\ProofOfOwnership\bin\Debug\NBitcoin.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\ProofOfOwnership\bin\Debug\Newtonsoft.Json.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\ProofOfOwnership\bin\Debug\NBitcoin.pdb
+E:\MYDESK\ProgrammingBlockchainCodeExamples\ProofOfOwnership\bin\Debug\NBitcoin.xml
+E:\MYDESK\ProgrammingBlockchainCodeExamples\ProofOfOwnership\bin\Debug\Newtonsoft.Json.xml
+E:\MYDESK\ProgrammingBlockchainCodeExamples\ProofOfOwnership\obj\Debug\ProofOfOwnership.exe
+E:\MYDESK\ProgrammingBlockchainCodeExamples\ProofOfOwnership\obj\Debug\ProofOfOwnership.pdb

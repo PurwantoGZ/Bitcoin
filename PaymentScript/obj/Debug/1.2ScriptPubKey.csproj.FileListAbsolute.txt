@@ -1,0 +1,12 @@
+E:\MYDESK\ProgrammingBlockchainCodeExamples\PaymentScript\bin\Debug\PaymentScript.exe.config
+E:\MYDESK\ProgrammingBlockchainCodeExamples\PaymentScript\bin\Debug\PaymentScript.exe
+E:\MYDESK\ProgrammingBlockchainCodeExamples\PaymentScript\bin\Debug\PaymentScript.pdb
+E:\MYDESK\ProgrammingBlockchainCodeExamples\PaymentScript\bin\Debug\NBitcoin.BouncyCastle.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\PaymentScript\bin\Debug\NBitcoin.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\PaymentScript\bin\Debug\Newtonsoft.Json.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\PaymentScript\bin\Debug\NBitcoin.pdb
+E:\MYDESK\ProgrammingBlockchainCodeExamples\PaymentScript\bin\Debug\NBitcoin.xml
+E:\MYDESK\ProgrammingBlockchainCodeExamples\PaymentScript\bin\Debug\Newtonsoft.Json.xml
+E:\MYDESK\ProgrammingBlockchainCodeExamples\PaymentScript\obj\Debug\1.2ScriptPubKey.csprojResolveAssemblyReference.cache
+E:\MYDESK\ProgrammingBlockchainCodeExamples\PaymentScript\obj\Debug\PaymentScript.exe
+E:\MYDESK\ProgrammingBlockchainCodeExamples\PaymentScript\obj\Debug\PaymentScript.pdb

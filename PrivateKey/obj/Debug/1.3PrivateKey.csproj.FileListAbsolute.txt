@@ -1,0 +1,11 @@
+E:\MYDESK\ProgrammingBlockchainCodeExamples\PrivateKey\bin\Debug\PrivateKey.exe.config
+E:\MYDESK\ProgrammingBlockchainCodeExamples\PrivateKey\bin\Debug\PrivateKey.exe
+E:\MYDESK\ProgrammingBlockchainCodeExamples\PrivateKey\bin\Debug\PrivateKey.pdb
+E:\MYDESK\ProgrammingBlockchainCodeExamples\PrivateKey\bin\Debug\NBitcoin.BouncyCastle.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\PrivateKey\bin\Debug\NBitcoin.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\PrivateKey\bin\Debug\Newtonsoft.Json.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\PrivateKey\bin\Debug\NBitcoin.pdb
+E:\MYDESK\ProgrammingBlockchainCodeExamples\PrivateKey\bin\Debug\NBitcoin.xml
+E:\MYDESK\ProgrammingBlockchainCodeExamples\PrivateKey\bin\Debug\Newtonsoft.Json.xml
+E:\MYDESK\ProgrammingBlockchainCodeExamples\PrivateKey\obj\Debug\PrivateKey.exe
+E:\MYDESK\ProgrammingBlockchainCodeExamples\PrivateKey\obj\Debug\PrivateKey.pdb

@@ -1,0 +1,14 @@
+E:\MYDESK\ProgrammingBlockchainCodeExamples\Transaction\bin\Debug\Transaction.exe.config
+E:\MYDESK\ProgrammingBlockchainCodeExamples\Transaction\bin\Debug\Transaction.exe
+E:\MYDESK\ProgrammingBlockchainCodeExamples\Transaction\bin\Debug\Transaction.pdb
+E:\MYDESK\ProgrammingBlockchainCodeExamples\Transaction\bin\Debug\NBitcoin.BouncyCastle.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\Transaction\bin\Debug\NBitcoin.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\Transaction\bin\Debug\Newtonsoft.Json.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\Transaction\bin\Debug\QBitNinja.Client.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\Transaction\bin\Debug\NBitcoin.pdb
+E:\MYDESK\ProgrammingBlockchainCodeExamples\Transaction\bin\Debug\NBitcoin.xml
+E:\MYDESK\ProgrammingBlockchainCodeExamples\Transaction\bin\Debug\Newtonsoft.Json.xml
+E:\MYDESK\ProgrammingBlockchainCodeExamples\Transaction\bin\Debug\QBitNinja.Client.pdb
+E:\MYDESK\ProgrammingBlockchainCodeExamples\Transaction\obj\Debug\1.4Transaction.csprojResolveAssemblyReference.cache
+E:\MYDESK\ProgrammingBlockchainCodeExamples\Transaction\obj\Debug\Transaction.exe
+E:\MYDESK\ProgrammingBlockchainCodeExamples\Transaction\obj\Debug\Transaction.pdb

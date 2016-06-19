@@ -1,0 +1,11 @@
+E:\MYDESK\ProgrammingBlockchainCodeExamples\HdWallet\bin\Debug\HdWallet.exe.config
+E:\MYDESK\ProgrammingBlockchainCodeExamples\HdWallet\bin\Debug\HdWallet.exe
+E:\MYDESK\ProgrammingBlockchainCodeExamples\HdWallet\bin\Debug\HdWallet.pdb
+E:\MYDESK\ProgrammingBlockchainCodeExamples\HdWallet\bin\Debug\NBitcoin.BouncyCastle.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\HdWallet\bin\Debug\NBitcoin.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\HdWallet\bin\Debug\Newtonsoft.Json.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\HdWallet\bin\Debug\NBitcoin.pdb
+E:\MYDESK\ProgrammingBlockchainCodeExamples\HdWallet\bin\Debug\NBitcoin.xml
+E:\MYDESK\ProgrammingBlockchainCodeExamples\HdWallet\bin\Debug\Newtonsoft.Json.xml
+E:\MYDESK\ProgrammingBlockchainCodeExamples\HdWallet\obj\Debug\HdWallet.exe
+E:\MYDESK\ProgrammingBlockchainCodeExamples\HdWallet\obj\Debug\HdWallet.pdb

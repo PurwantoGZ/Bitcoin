@@ -1,0 +1,11 @@
+E:\MYDESK\ProgrammingBlockchainCodeExamples\3.0OtherTypesOfOwnerships\bin\Debug\3.0OtherTypesOfOwnerships.exe.config
+E:\MYDESK\ProgrammingBlockchainCodeExamples\3.0OtherTypesOfOwnerships\bin\Debug\3.0OtherTypesOfOwnerships.exe
+E:\MYDESK\ProgrammingBlockchainCodeExamples\3.0OtherTypesOfOwnerships\bin\Debug\3.0OtherTypesOfOwnerships.pdb
+E:\MYDESK\ProgrammingBlockchainCodeExamples\3.0OtherTypesOfOwnerships\bin\Debug\NBitcoin.BouncyCastle.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\3.0OtherTypesOfOwnerships\bin\Debug\NBitcoin.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\3.0OtherTypesOfOwnerships\bin\Debug\Newtonsoft.Json.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\3.0OtherTypesOfOwnerships\bin\Debug\NBitcoin.pdb
+E:\MYDESK\ProgrammingBlockchainCodeExamples\3.0OtherTypesOfOwnerships\bin\Debug\NBitcoin.xml
+E:\MYDESK\ProgrammingBlockchainCodeExamples\3.0OtherTypesOfOwnerships\bin\Debug\Newtonsoft.Json.xml
+E:\MYDESK\ProgrammingBlockchainCodeExamples\3.0OtherTypesOfOwnerships\obj\Debug\3.0OtherTypesOfOwnerships.exe
+E:\MYDESK\ProgrammingBlockchainCodeExamples\3.0OtherTypesOfOwnerships\obj\Debug\3.0OtherTypesOfOwnerships.pdb

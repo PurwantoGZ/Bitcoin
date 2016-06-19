@@ -1,0 +1,11 @@
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.3ProofOfBurn\bin\Debug\4.3ProofOfBurn.exe.config
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.3ProofOfBurn\bin\Debug\4.3ProofOfBurn.exe
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.3ProofOfBurn\bin\Debug\4.3ProofOfBurn.pdb
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.3ProofOfBurn\bin\Debug\NBitcoin.BouncyCastle.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.3ProofOfBurn\bin\Debug\NBitcoin.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.3ProofOfBurn\bin\Debug\Newtonsoft.Json.dll
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.3ProofOfBurn\bin\Debug\NBitcoin.pdb
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.3ProofOfBurn\bin\Debug\NBitcoin.xml
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.3ProofOfBurn\bin\Debug\Newtonsoft.Json.xml
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.3ProofOfBurn\obj\Debug\4.3ProofOfBurn.exe
+E:\MYDESK\ProgrammingBlockchainCodeExamples\4.3ProofOfBurn\obj\Debug\4.3ProofOfBurn.pdb
